@@ -1,4 +1,4 @@
-#Basket Open API testing with Serenity framework
+# Basket Open API testing with Serenity framework
 
 [![Basket API Testing](https://github.com/srirambonda/basket-api-testing/actions/workflows/maven.yml/badge.svg)](https://github.com/srirambonda/basket-api-testing/actions/workflows/maven.yml)
 
